@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-esqdk-cu^%5cd7hb3(-_s*m#o#a*b%9ie@8f7_6r#=g&r9&c@7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["pokemonrep.onrender.com"]
 
